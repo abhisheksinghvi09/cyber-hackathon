@@ -236,6 +236,13 @@ serve -s dist -l 3000
 - **Frontend**: React 18, Vite, Tailwind CSS, Recharts, jsPDF.
 - **Authentication**: JWT, bcrypt, OAuth2.
 
+## Future Enhancements
+- Integrate directly with scanners like Nmap and Nessus for live, automated data collection.
+- Automate patch deployment using tools like Ansible and connect with ticketing systems like Jira.
+- Incorporate real-time threat intelligence feeds to prioritize actively exploited vulnerabilities.
+- Introduce role-based access control (RBAC) and team features for better collaboration.
+- Map vulnerabilities to compliance frameworks like PCI-DSS and HIPAA for automated reporting.
+
 ## License
 
 Developed for hackathon purposes by the Nischay Team. See `LICENSE` for details.
