@@ -4,6 +4,9 @@ VPM is a state-of-the-art platform that leverages Large Language Models (LLMs) t
 
 **Developed by the Nischay Team for ethical use only. Unauthorized scanning or misuse of this tool is strictly prohibited. Please ensure compliance with all applicable laws and regulations.**
 
+# Demo Video link
+```https://drive.google.com/file/d/1fUBkCLrRg2ZAJJM6RZWODpjA724Pq8nN/view?usp=sharing ```
+
 ##  Key Features
 
 - **Secure Authentication**: JWT-based login/signup with isolated user data and protected routes.
@@ -44,13 +47,13 @@ VPM/
 
 ## Screenshots
 
-### Login Page
+### DashBoard
 
-![Login Page](images/login_page.png)*Description*: A secure, user-friendly login interface with JWT-based authentication for seamless access to the platform.
+![DashBoard Page](images/dashboard.png)
 
 ### File Upload Interface
 
-![File Upload](images/report_upload.png)*Description*: A drag-and-drop interface for uploading Nmap XML scan files, featuring real-time validation and progress tracking.
+![File Upload](images/file-upload_page)*Description*: A drag-and-drop interface for uploading Nmap XML scan files, featuring real-time validation and progress tracking.
 
 ### AI Chatbot Interface
 
@@ -152,7 +155,7 @@ VPM/
    - Download automated patch scripts for quick remediation.
    - **Sample Report**:
 
-     ![Sample Report](images/sample_report.png)*Description*: A professionally formatted PDF report showcasing vulnerability details, risk assessments, and AI-generated patch recommendations.
+     ![Sample Report](images/report.png)*Description*: A professionally formatted PDF report showcasing vulnerability details, risk assessments, and AI-generated patch recommendations.
 
 ## API Endpoints
 
