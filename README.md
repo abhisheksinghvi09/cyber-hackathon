@@ -49,11 +49,11 @@ VPM/
 
 ### DashBoard
 
-![DashBoard Page](images/dashboard.png)
+![DashBoard Page](images/dashboard_page.png)
 
 ### File Upload Interface
 
-![File Upload](images/file-upload_page)*Description*: A drag-and-drop interface for uploading Nmap XML scan files, featuring real-time validation and progress tracking.
+![File Upload](images/file-upload_page.png)*Description*: A drag-and-drop interface for uploading Nmap XML scan files, featuring real-time validation and progress tracking.
 
 ### AI Chatbot Interface
 
